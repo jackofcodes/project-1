@@ -1,0 +1,31 @@
+h1{
+    font-family: 'Shizuru', cursive;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.colors{
+    margin: auto;
+}
+
+td{
+    height: 200px;
+    padding: 100px;
+    border: 5px solid black;
+}
+
+#one{
+    background-color: #5B2333;
+}
+#two{
+    background-color: #F7F4F3;
+}
+#three{
+    background-color: #564D4A;
+}
+#four{
+    background-color: #F24333;
+}
+#five{
+    background-color: #BA1B1D;
+}
